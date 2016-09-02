@@ -1,0 +1,19 @@
+{
+	"user":
+	{
+		"gutter_theme": "Packages/SublimeLinter/gutter-themes/Blueberry/round/Blueberry - round.gutter-theme",
+		"linters":
+		{
+			"lua":
+			{
+				"@disable": false,
+				"args":
+				[
+				],
+				"excludes":
+				[
+				]
+			}
+		}
+	}
+}

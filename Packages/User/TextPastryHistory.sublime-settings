@@ -1,0 +1,42 @@
+{
+	"history":
+	[
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "1"
+				},
+				"command": "text_pastry_step",
+				"text": "1"
+			},
+			"key": "c4ca4238a0b923820dcc509a6f75849b",
+			"label": "1"
+		},
+		{
+			"data":
+			{
+				"args":
+				{
+					"text": "test hao ni ",
+					"threshold": 3
+				},
+				"command": "text_pastry_insert_text",
+				"text": "test hao ni "
+			},
+			"key": "b546ee7018cff23e653eca2363e302f6",
+			"label": "test hao ni "
+		}
+	],
+	"last_command":
+	{
+		"args":
+		{
+			"text": "test hao ni ",
+			"threshold": 3
+		},
+		"command": "text_pastry_insert_text",
+		"text": "test hao ni "
+	}
+}

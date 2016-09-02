@@ -1,0 +1,14 @@
+{
+	"binary_file_patterns":
+	[
+		".DS_Store",
+		".gitignore",
+		"*.psd"
+	],
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"font_size": 16,
+	"ignored_packages":
+	[
+		"Vintage"
+	]
+}
