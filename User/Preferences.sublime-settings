@@ -1,0 +1,9 @@
+{
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"ignored_packages":
+	[
+		"Advanced CSV",
+		"C++ Snippets",
+		"Vintage"
+	]
+}
